@@ -8,7 +8,7 @@ const Home = () => {
         <div className="Home">
             <Navbar />
             <div className="container">
-            <h1 className="w-40 my-5 mx-2 text-xl font-extrabold">Home Page</h1>
+            <h1 className="w-40 my-5 mx-2 text-xl font-extrabold">Home Page Dashboard</h1>
             <ProductData />
             </div>
         </div>
