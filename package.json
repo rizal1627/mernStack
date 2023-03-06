@@ -1,0 +1,20 @@
+{
+  "name": "mernstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizal1627/mernStack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizal1627/mernStack/issues"
+  },
+  "homepage": "https://github.com/rizal1627/mernStack#readme"
+}
