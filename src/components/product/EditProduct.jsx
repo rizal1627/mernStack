@@ -21,7 +21,7 @@ const EditPorduct = () => {
 
     const updateProduct = async (e) => {
         e.preventDefault()
-        await axios.patch('http://localhost:3001/products/'+id, {
+        await axios.patch(`http://localhost:3001/products/${id}`, {
             name: name,
             price: parseInt(price)
         })

@@ -15,7 +15,6 @@ const Category = () => {
     return (
         <div className="#">
             <div className="w-full">
-                
                 <div className="relative shadow rounded-lg mt-3">
                     <table className="w-full text-sm text-left text-gray-500">
                         <thead className="text-xs text-grey-700 uppercase bg-slate-100">
